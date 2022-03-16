@@ -5,6 +5,10 @@ Handwriting recognition is the ability of a computer or device to take as input 
 Dataset
 The dataset for this project originates from kaggle kernels which include Arabic Digits and Arabic Letters.
 
+source https://drive.google.com/drive/folders/1BiTs1JqvqDZT8rfNnRJDrAP9OTF0mlkl?usp=sharing
+
+https://drive.google.com/drive/folders/1J1qgARl4vHpDunwdgYvlGYoMITazbOLU?usp=sharing
+
 All the datasets are CSV files representing the image pixels values and their corresponding label.
 
 Here are some more details about the datasets:
